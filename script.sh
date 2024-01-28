@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hello buntya aahee" > /tmp/myfile.txt
+echo "hello buntya aaahee" > /tmp/myfile.txt
